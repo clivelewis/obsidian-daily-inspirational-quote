@@ -1,3 +1,5 @@
+![GitHub release (with filter)](https://img.shields.io/github/v/release/clivelewis/obsidian-daily-inspirational-quote)
+
 # Obsidian Daily Inspirational Quote
 
 This plugin adds an inspirational quote automatically to your new daily notes.
@@ -14,4 +16,4 @@ Follow these steps:
 
 1. Go to your vault plugins folder. to your vault `VaultFolder/.obsidian/plugins/`
 2. Create a folder called `daily-inspirational-quote`
-3. Copy over `main.js`, `styles.css`, `manifest.json` files.
+3. Download `main.js`, `styles.css`, `manifest.json` files from the latest [release](https://github.com/clivelewis/obsidian-daily-inspirational-quote/releases).
