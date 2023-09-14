@@ -1,4 +1,4 @@
-![GitHub release (with filter)](https://img.shields.io/github/v/release/clivelewis/obsidian-daily-inspirational-quote)
+[![GitHub release (with filter)](https://img.shields.io/github/v/release/clivelewis/obsidian-daily-inspirational-quote)](https://github.com/clivelewis/obsidian-daily-inspirational-quote/releases/latest)
 
 # Obsidian Daily Inspirational Quote
 
