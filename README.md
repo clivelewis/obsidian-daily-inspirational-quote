@@ -17,3 +17,12 @@ Follow these steps:
 1. Go to your vault plugins folder. to your vault `VaultFolder/.obsidian/plugins/`
 2. Create a folder called `daily-inspirational-quote`
 3. Download `main.js`, `styles.css`, `manifest.json` files from the latest [release](https://github.com/clivelewis/obsidian-daily-inspirational-quote/releases).
+
+## Example usage
+- Automatically generated quote when new daily note is created.
+
+![Example 1](docs/example1.gif)
+
+- Manually add quote to any note using a Command palette.
+
+![Example 2](docs/example2.gif)
